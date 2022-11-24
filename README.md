@@ -16,6 +16,10 @@ This is just for experimentation for now. The actual mapping may work differentl
 7. ???
 8. Profit!!!
 
+# Plans
+- Different things on different pyramids 
+- Moon
+
 # Bugs
 There is a plank on either side that isn't rendering for some reason...
 
