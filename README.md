@@ -5,7 +5,7 @@ This is just for experimentation for now. The actual mapping may work differentl
 
 Luka Gores has made this stage design. Builders will be constructing it to align with the 3d models.
 
-# Features
+# Details
 - The projection elements of the stage is made up of 5 pyramids and a moon above the middle pyramid
 - Previs stage has a wood texture to give an idea of how visuals are effected by the material
 - We will have some form of this program running on the server computer interpreting your output, mapping it and sending it to the projectors
