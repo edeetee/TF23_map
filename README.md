@@ -19,8 +19,8 @@ Luka Gores has made this stage design. Builders will be constructing it to align
 1. Install touchdesigner https://derivative.ca/download
 2. Open the .toe
 3. Start spout output in resolume
-4. Select the resolume spout in the spoutIn OP ![](spout.png)
-5. Choose your mapping with the mapping OP ![](mapping.png)
+4. Select the resolume spout in the spoutIn OP <img src="https://raw.githubusercontent.com/edeetee/TF23_map/main/spout.png" width=50% height=50%>
+5. Choose your mapping with the mapping OP <img src="https://raw.githubusercontent.com/edeetee/TF23_map/main/mapping.png" width=50% height=50%>
 6. Press F11 to go fullscreen
 7. ???
 8. Profit!!!
